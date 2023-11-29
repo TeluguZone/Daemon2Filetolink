@@ -106,24 +106,3 @@ async def about_handler(bot, message):
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
-┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : FILE TO LINK ⚡
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/TeluguZone0'>TeluguZone</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+y3URnRGyizQ3MmM1'>TeluguZone support</a></b>
-┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
-┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
-┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>BACKUP CHANNEL : <a href='https://t.me/TeluguZoneOFC'>BACKUP CHANNEL</a></b>
-┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
-  
-        
-        reply_markup=InlineKeyboardMarkup(
-                [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/TeluguZone0"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+y3URnRGyizQ3MmM1")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/Daemon990"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/Daemon990")],
-                    [InlineKeyboardButton("📌 BACKUP CHANNEL ⚡", url="https://t.me/TeluguZoneOFC")]
-                ]
-            ),
-            
-        )
